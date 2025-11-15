@@ -1,4 +1,5 @@
 # 💫 About Me:
+## I'm ALOUACH Abdennour
 🎓 Master student in *Artificial Intelligence & Emerging Technologies* at Université Mohammed Premier, Nador.  <br>🎓 Bachelor's degree in *Mathematics & Computer Science*<br><br>🔥 Passionate about **AI for automation, AI security, and AI in renewable energy**.  <br>🧠 Skilled in **neural networks, TinyML, FastKAN, and data engineering pipelines**.  <br>📱 Experienced with **TinyML** (deploying lightweight models on IoT and edge devices for real-time intelligence).  <br>⚡ Exploring **FastKAN architectures** (efficient kernel-based attention networks for multi-task learning and scalable performance).  <br>🔧 Building **data engineering pipelines** (ETL, cloud architectures, reproducible workflows for robust AI deployment).  <br>📚 Advanced in **LaTeX/Overleaf** for polished academic and professional outputs.  <br>🔍 Focused on **AI lifecycle security, data threats, and resilient deployment strategies**.  <br>🌱 Always learning, iterating, and aiming for **authentic, future-proof solutions**.  
 
 
